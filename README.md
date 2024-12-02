@@ -66,3 +66,5 @@ print(response)
 
 This vulnerability allows the execution of arbitrary malicious code, enabling an attacker to delete any file on the server or read any content.
 
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/d3e8c729-45ea-4273-a65b-53b1d39de6b4">
+
